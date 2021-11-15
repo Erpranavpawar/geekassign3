@@ -1,0 +1,28 @@
+
+.body{
+    margin-left: 40px;
+    margin-right: 50px;
+
+}
+.nov21{
+    display: inline-block;
+    text-decoration: none;
+}
+.pen{
+    text-decoration: none;
+    display: flex;
+}
+#ten{
+    text-decoration: none;
+    display: inline-block;
+}
+.tbl1{
+    width: 80%;
+    height: 125px;
+    margin-top: 0px;
+    border-style: solid;
+}
+.th, td, tr{
+    border: style 1px;
+    border-collapse: collapse;
+}
